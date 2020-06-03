@@ -31,7 +31,8 @@ echo "<hr style=\"margin 1rem 0\">";
 
 <?php  
 $food_assoc['Milk']=array(
-"type:" => "Dairy","country:"=>"Canada");
+"type:" => "Dairy",
+"country:"=>"Canada");
 $food_assoc['Bread']=array(
 "type:"=>"White",
 "country:"=>"USA");
