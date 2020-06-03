@@ -13,20 +13,20 @@ echo "PHP stands for \"Hypertext Preprocessor\"! ";
 echo "<hr style=\"margin 1rem 0\">";
 
 // task 3
-echo "<p>PHP stands for \"Hypertext Preprocessor\"! </p >";
+echo "<p>PHP stands for \"Hypertext Preprocessor\"! </p>";
 
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
 
 // task 4
 echo "HTML - Stands for Hypertext Markup Language";
-echo "<br />";
+echo "<br>";
 echo "CSS - Stands for Cascading Stylesheet";
-echo "<br />";
+echo "<br>";
 echo "JS - Stands for JavaScript";
-echo "<br />";
+echo "<br>";
 echo "PHP - Stands for Hypertext Preprocessor";
-echo "<br />";
+echo "<br>";
 echo "SQL - Stands for Structural Query Language";
 
 // task separator
