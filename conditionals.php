@@ -96,7 +96,7 @@ $greenLight=false;
 if (($redLight or $yellowLight) and !$greenLight)
 	echo "Stop the car!";
 else if ($redLight==false and $yellowLight==false and $greenLight==false)
-	echo "Power outage";
+	echo "Power outage!";
 else if ($redLight==false and $yellowLight==false and $greenLight==true)
 	echo "Keep Moving!";
 else if (($redLight ==true or $yellowLight== true)and $greenLight==true) {
@@ -122,7 +122,7 @@ switch($ref){
 	echo "Stop the car!";
 	break;
 	case !$redLight and !$yellowLight and !$greenLight:
-	echo "Power outage";
+	echo "Power outage!";
 	break;
 	case !$redLight and !$yellowLight and $greenLight:
 	echo "Keep moving!";
